@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Food Recipes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="splash_logo_image">Splash Logo Image</string>
+    <string name="food_recipes">Food Recipes</string>
+    <string name="categories">Categories</string>
+    <string name="recipe_image">Recipe Image</string>
+    <string name="ingredients">Ingredients</string>
+</resources>
